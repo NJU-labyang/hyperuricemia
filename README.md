@@ -1,0 +1,1 @@
+We introduce a locus-specific stratification (LSS) and gene regulatory prioritization score (GRPS) approach to comprehensively explore genetic contribution and nominate reliable causal genes for complex diseases.
